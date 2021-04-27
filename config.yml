@@ -1,4 +1,4 @@
-title: "Light Nite Status "
+title: STATUS PAGE 🍯
 baseURL: https://status.lightnite.io
 languageCode: en
 params:
@@ -12,6 +12,15 @@ params:
     - name: Web Store
       description: Web platform to buy in-game skins from the game & referrals
       link: https://play.lightnite.io
+    - name: Blog
+      description: "Light Nite development blog "
+      link: https://blog.lightnite.io
+    - name: Elixir Marketplace
+      description: Community marketplace to trade Light Nite skins
+      link: https://market.elixir.app
+    - name: Issues Page
+      description: "Feedback & new features page for Light Nite game "
+      link: https://issues.lightnite.io
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: status.lightnite.io
   timezoneString: CET
