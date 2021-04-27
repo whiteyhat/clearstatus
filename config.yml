@@ -13,7 +13,8 @@ params:
       description: Web platform to buy in-game skins from the game & referrals
       link: https://play.lightnite.io
   dateFormat: January 2, 2006 at 3:04 PM
-  disqusShortname: "@satoshisgames"
+  disqusShortname: <script id="dsq-count-scr"
+    src="//https-status-lightnite-io.disqus.com/count.js" async></script>
   timezoneString: CET
   logo: https://lightnite.io/assets/img/utils/logo.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
