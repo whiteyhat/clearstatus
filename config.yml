@@ -21,7 +21,7 @@ params:
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
     page on Twitter' href='https://www.twitter.com/lightnitegame'>on Twitter</a>
     or join our <a class='text-grey-darkest' href='https://ln.onl/discord'
-    >Discord</a><br />to be alerted of new events.
+    >Discord</a>.
   copyrightHolder: Satoshis Games Inc
   eventsPerPage: 10
   iconType: image/png
