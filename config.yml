@@ -13,19 +13,17 @@ params:
       description: Web platform to buy in-game skins from the game & referrals
       link: https://play.lightnite.io
   dateFormat: January 2, 2006 at 3:04 PM
-  disqusShortname: null
+  disqusShortname: "@satoshisgames"
   timezoneString: CET
   logo: https://lightnite.io/assets/img/utils/logo.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
-    example.com' href='https://www.example.com/'>example</a> systems
+    example.com' href='https://www.lightnite.io/'>Light Nite</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
-    page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or
-    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
-    alerted of new events.
+    page on Twitter' href='https://www.twitter.com/lightnitegame'>on Twitter</a>
+    or join our <a class='text-grey-darkest' href='https://ln.onl/discord'
+    >Discord</a><br />to be alerted of new events.
   copyrightHolder: Satoshis Games Inc
   eventsPerPage: 10
   iconType: image/png
   icon: /images/clearstatus.png
-  description_footer: <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ""
